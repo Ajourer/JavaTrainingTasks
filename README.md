@@ -1,1 +1,1 @@
-# JavaTrainingTasks
+# Задачи на языке Java
